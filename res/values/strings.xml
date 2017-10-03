@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">NotificationVolume</string>
+    <string name="seekbar_width">Seekbar width</string>
+    <string name="seekbar_width_summary">How wide the seekbar should be, in pixels. Must be a number</string>
+    <string name="padding">Padding from bottom</string>
+    <string name="padding_summary">How many pixels the seekbars should be from screen bottom</string>
+
+</resources>
